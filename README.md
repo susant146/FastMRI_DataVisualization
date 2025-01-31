@@ -13,16 +13,16 @@ This repository demonstrates how to visualize MRI data using the [FastMRI](https
 
 To use this code, you'll need to have the following dependencies installed:
 
-- Python 3.7 or higher
-- `torch`
-- `fastmri`
-- `h5py`
-- `matplotlib`
-- `numpy`
+- ![Python](https://img.shields.io/badge/python-3.7%2B-blue)
+- ![PyTorch](https://img.shields.io/badge/PyTorch-v1.9.0-blue)
+- ![FastMRI](https://img.shields.io/badge/FastMRI-0.2.0-orange)
+- ![H5py](https://img.shields.io/badge/h5py-v3.1.0-lightgreen)
+- ![Matplotlib](https://img.shields.io/badge/matplotlib-v3.4.2-yellow)
+- ![NumPy](https://img.shields.io/badge/NumPy-v1.19.5-red)
 
 You can install the dependencies using the following command:
 
-bash
+```bash
 pip install torch fastmri h5py matplotlib numpy
 
 
