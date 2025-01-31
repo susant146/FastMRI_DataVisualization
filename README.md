@@ -22,7 +22,7 @@ To use this code, you'll need to have the following dependencies installed:
 
 You can install the dependencies using the following command:
 
-```bash
+bash
 pip install torch fastmri h5py matplotlib numpy
 
 
