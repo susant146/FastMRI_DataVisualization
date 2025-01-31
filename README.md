@@ -8,11 +8,11 @@ fastMRI is a collaborative research project from Facebook AI Research (FAIR) and
 # References
 We encourage reading the following papers for more details:
 
-1. Zbontar, J., Knoll, F., Sriram, A., Murrell, T., Huang, Z., Muckley, M. J., ... & Lui, Y. W. (1811). fastMRI: An open dataset and benchmarks for accelerated MRI. arXiv 2018. arXiv preprint arXiv:1811.08839. Link to paper
+1. Zbontar, J., Knoll, F., Sriram, A., Murrell, T., Huang, Z., Muckley, M. J., ... & Lui, Y. W. (1811). fastMRI: An open dataset and benchmarks for accelerated MRI. arXiv 2018. arXiv preprint arXiv:1811.08839. **Link to paper: https://arxiv.org/abs/1811.08839**
 
 1. Uecker, Martin, et al. "ESPIRiT—an eigenvalue approach to autocalibrating parallel MRI: where SENSE meets GRAPPA." Magnetic resonance in medicine 71.3 (2014): 990-1001. **Links to Papers: https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.24751**
 
-# MRI Data Visualization with FastMRI
+# Installation
 
 This repository demonstrates how to visualize MRI data using the [FastMRI](https://github.com/facebookresearch/fastmri) library. FastMRI is an open-source framework developed by Facebook Research for accelerating MRI through deep learning methods.
 
@@ -30,6 +30,5 @@ To use this code, you'll need to have the following dependencies installed:
 You can install the dependencies using the following command:
 
 ```bash
-pip install torch fastmri h5py matplotlib numpy 
-
+(```pip install torch fastmri h5py matplotlib numpy```)
 
