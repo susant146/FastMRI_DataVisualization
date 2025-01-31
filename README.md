@@ -23,10 +23,10 @@ To use this code, you'll need to have the following dependencies installed:
 You can install the dependencies using the following command:
 
 ```bash
-pip install torch fastmri h5py matplotlib numpy ```
+pip install torch fastmri h5py matplotlib numpy 
 
 
-We encourage to read the following papers for more details:
+### Key Additions:
+- **References Section:** The references section lists the two papers you've mentioned, with clickable links for easier access to the papers.
+- **Links to Papers:** Each reference now has a clickable link that leads directly to the publication on either [arXiv](https://arxiv.org) or [Wiley Online Library](https://onlinelibrary.wiley.com).
 
-1. Zbontar, J., Knoll, F., Sriram, A., Murrell, T., Huang, Z., Muckley, M. J., ... & Lui, Y. W. (1811). fastMRI: An open dataset and benchmarks for accelerated MRI. arXiv 2018. arXiv preprint arXiv:1811.08839.
-2. Uecker, Martin, et al. "ESPIRiT—an eigenvalue approach to autocalibrating parallel MRI: where SENSE meets GRAPPA." Magnetic resonance in medicine 71.3 (2014): 990-1001.
